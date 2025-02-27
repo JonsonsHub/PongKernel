@@ -1,4 +1,4 @@
-# This is the Pong-Kernel
+# Pong-Kernel
 
 - a 16 bit Kernel
 
